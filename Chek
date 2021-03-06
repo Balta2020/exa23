@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 ,SPORTV PPRTUGAL
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/walxjawfo5x.m3u8?s=mvHyeNIfJ5uL081h0NMMJQ&e=1615076550
+#EXTINF:-1 ,ESPN SUR 2
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/7iixd.m3u8?s=Vav_9ycigRDxPTCVLPusxg&e=1615070585
+#EXTINF:-1 ,SPORTV 2
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/u225jtufy2dkv.m3u8?s=kuy6qfC_-C8J8fH8AxZgyg&e=1615076678
+#EXTINF:-1 ,RCM SPORTS
+https://e1.espncdn.me/ingest013/56900.m3u8?sf=c3loc0VHY2M1MA==&token=PrRgG6fOO0upCZjh33n4zw&expires=1615069958&rnd=
+#EXTINF:-1 ,RCM SPORTS 2
+https://e4.espncdn.me/ingest02/66527.m3u8?sf=bDREU0x4WlAyVA==&token=1mtdkJo15cFj8XCzrEPN5w&expires=1615070053&rnd=
